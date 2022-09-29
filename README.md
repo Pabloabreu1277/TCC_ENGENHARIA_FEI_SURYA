@@ -2,6 +2,10 @@
 
 2°LUGAR NA EXPOMECPLENA
 
+Vídeo de apresentação do projeto:
+
+https://youtube.com/watch?v=4ZSNyCOl5YI&feature=share
+
 Link da premiação:
 
 https://www.youtube.com/watch?v=9Xv3DocHsZc
