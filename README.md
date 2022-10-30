@@ -14,6 +14,6 @@ https://www.youtube.com/watch?v=9Xv3DocHsZc
  
  <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="center" height="800" alt="coding-time" src="Pôster_Projeto Surya.jpg">
+    <img align="center" height="750" alt="coding-time" src="Pôster_Projeto Surya.jpg">
 
     
